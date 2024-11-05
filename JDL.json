@@ -1,6 +1,6 @@
 {
 	"Name": "Jack Daniel's League (JDL)",
-	"Version": 1730053568,
+	"Version": 1730841110,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2575,6 +2575,7 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"52",
 				"10",
 				"34",
 				"38",
