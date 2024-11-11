@@ -1,6 +1,6 @@
 {
 	"Name": "Jack Daniel's League (JDL)",
-	"Version": 1730841110,
+	"Version": 1731293104,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2602,8 +2602,7 @@
 			"ItemWhitelist": [
 				0,
 				5,
-				8,
-				14
+				8
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2625,11 +2624,7 @@
 					]
 				},
 				"Toolbox": {
-					"Addons": [
-						0,
-						1,
-						2
-					]
+					"Addons": []
 				},
 				"Key": {
 					"Addons": []
